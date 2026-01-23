@@ -1,2 +1,3 @@
 model
 bi-lstm-w2vec-I.ipynb
+svm-bi-lstm-w2vec-indobert.ipynb
