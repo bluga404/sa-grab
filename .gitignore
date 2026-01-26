@@ -1,5 +1,4 @@
 model
 bi-lstm-w2vec-I.ipynb
 svm-bi-lstm-w2vec-indobert.ipynb
-scrape.ipynb
 svm-bi-lstm-w2vec-indobert-final copy.ipynb
