@@ -17,7 +17,7 @@ This project aims to perform sentiment analysis on Traveloka Play Store Reviews 
 
 #### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+Framework/libraries used.
 
 * [![TensorFlow][TensorFlow.js]][TensorFlow-url]
 * [![Pandas][Pandas.py]][Pandas-url]
@@ -33,7 +33,7 @@ The dataset used consists of user reviews for the Gojek application, collected u
 
 - **Source:** Traveloka Google Play Store Reviews
 - **Dataset row:** 62,190 rows
-- **Pembagian Data:** 70% Training, 30% Testing
+- **Data Split:** 70% Training, 30% Testing
 - **Preprocessing:** Cleaning, Case Folding, Normalization (Slang words), Stopword Removal, Stemming (untuk Model Non-BERT).
 
 ## Experiment Schemes & Methodology
@@ -66,12 +66,12 @@ To achieve the best results, this project conducted experiments using 3 differen
 <!-- LICENSE -->
 ## License
 
-Distributed under the Unlicense License. See `LICENSE.txt` for more information.
+Feel free to modify!
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+Resources i find helpful and would like to give credit to.
 
 * [Huggingface](https://huggingface.co/)
 * [Tensorflow](https://www.tensorflow.org/)
